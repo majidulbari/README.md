@@ -1,4 +1,4 @@
-### Hi, I'm Majidul 👋
+### Hi, I'm Majidul Bari 👋
 
 I help companies connect their systems to product-content platforms, working with APIs, XML/JSON and SQL. I have 15+ years of experience across web development, IT infrastructure and technical support.
 
